@@ -10,3 +10,4 @@
 
 [csirs_resource_mapping](https://ykqin.github.io/nrResourceMapping/output/csirs_resource_mapping.html)
 
+[srs_resource_mapping](https://ykqin.github.io/nrResourceMapping/output/srs_resource_mapping.html)
