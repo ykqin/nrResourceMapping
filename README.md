@@ -13,3 +13,5 @@
 [srs_resource_mapping](https://ykqin.github.io/nrResourceMapping/output/srs_resource_mapping.html)
 
 [pusch_resource_mapping](https://ykqin.github.io/nrResourceMapping/output/pusch_resource_mapping.html)
+
+[pucch_resource_mapping](https://ykqin.github.io/nrResourceMapping/output/pucch_resource_mapping.html)
